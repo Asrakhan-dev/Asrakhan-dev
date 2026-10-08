@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Asra Khan
 
-<!--
-**Asrakhan-dev/Asrakhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **CSE Student**  
+🌱 Currently learning programming and exploring technology  
+🚀 Building my skills through projects and practice  
+🧠 Curious about how things work and always ready to learn  
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
+- Programming fundamentals
+- Problem solving
+- Git & GitHub
+- Web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goals
+- Build real-world projects
+- Improve my coding skills
+- Explore different areas of Computer Science
+- Grow as a developer
+
+## 🌱 A Little About Me
+I'm a first-year Computer Science & Engineering student, beginning my journey in the world of technology.  
+I'm learning step by step and looking forward to building, experimenting, and growing along the way.
+
+---
+
+⭐ Thanks for visiting my profile!
